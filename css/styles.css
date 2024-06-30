@@ -527,10 +527,11 @@ audio {
   font-size: smaller;
   
 }
-.track-title {
+.track-title, .final-wish {
   line-height: normal;
   font-size: larger;
 }
+
 @media (min-width: 1200px) {
   .display-1 {
     font-size: 5rem;
